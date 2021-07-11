@@ -8,6 +8,8 @@
     * this should open your browser to jupyter lab page.
 * refer to [Project Structure] about the purpose of each file.
 * each notebook should be self explanatory, as they are all well commented and annotated within notebook.
+* run every cell in `merge_files.ipynb` first to fetch experiment data (note data is not committed to repository as their sizes are too larged).
+* now you are free to explore one of baseline, betterFE, or multi_model notebook.
 
 # Project Structure
 * `data`
